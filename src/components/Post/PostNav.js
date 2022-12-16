@@ -6,7 +6,7 @@ function PostNav(props) {
     return (
         
         <div>
-            <Button lable={props.text}/>
+            <Button label={props.text}/>
         </div>
     )
 }

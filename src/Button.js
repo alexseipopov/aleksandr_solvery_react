@@ -7,7 +7,7 @@ const style = {
 
 function Button(props) {
     return (
-        <button style={style}>{props.lable}</button>
+        <button style={style}>{props.label}</button>
     )
 }
 
